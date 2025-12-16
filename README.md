@@ -1,2 +1,0 @@
-# ps-rock-token
-token
